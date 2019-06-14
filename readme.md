@@ -1,3 +1,4 @@
-# MSc Project
+# Graduate Diploma in IT:
+## Java Project
 
-Write the Fibonnacci sequence using Java
+Write the Fibonnacci sequence
