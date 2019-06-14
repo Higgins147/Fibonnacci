@@ -1,4 +1,4 @@
-Array: Mean, Median and Mode
+Fibonnacci sequence
 =========
 
 Write the Fibonnacci sequence
